@@ -46,7 +46,7 @@ a
 * [High Cohesion and Low Coupling](http://www.math-cs.gordon.edu/courses/cs211/lectures-2009/Cohesion,Coupling,MVC.pdf)
 * [Monoliths and Microservices](https://medium.com/@SkyscannerEng/monoliths-and-microservices-8c65708c3dbf)
 * [CAP Theorem and Trade-offs](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
-* [CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)
+* [x][CP Databases and AP Databases](https://blog.andyet.com/2014/10/01/right-database)
 * [Stateless vs Stateful Scalability](http://ithare.com/scaling-stateful-objects/)	
 * [Scale Up vs Scale Out](https://www.brianjgraf.com/2013/05/17/scalability-scale-up-scale-out-care/)
 * [Scale Up vs Scale Out: Hidden Costs](https://blog.codinghorror.com/scaling-up-vs-scaling-out-hidden-costs/)
